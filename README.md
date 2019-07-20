@@ -1,2 +1,2 @@
 # UdacityTVScriptGenerator
-Udacity TV Script Generator
+This is the Udacity TV Script Generator project in the [Deep Learning nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101?utm_source=gsem_brand&utm_medium=ads_n&utm_campaign=2045115100_c&utm_term=74942758200_nam&utm_keyword=%2Budacity%20%2Bdeep%20%2Blearning_b&gclid=CjwKCAjw98rpBRAuEiwALmo-yhRX9H-oX674BWGn3Rv6jolkRVr_JiFbkOKPsz8dtXn2GDJxzh2wJxoCY5kQAvD_BwE) program. In this project we use a Recurrent Neural Network trained on scripts from Seinfield to generate its own TV scripts. 
